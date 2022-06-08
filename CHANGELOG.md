@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/beeera/conventional/compare/v2.0.3...v2.1.0) (2022-06-08)
+
+
+### Features
+
+* **@berre:** add new package to the libs ([b8e1866](https://github.com/beeera/conventional/commit/b8e18662d9a4b4c7681807e00b15e66219d7e439))
+
 ### [2.0.3](https://github.com/beeera/conventional/compare/v2.0.2...v2.0.3) (2022-06-08)
 
 ### [2.0.2](https://github.com/beeera/conventional/compare/v2.0.1...v2.0.2) (2022-06-08)
