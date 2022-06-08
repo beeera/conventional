@@ -8,6 +8,11 @@
     "lerna": "^5.1.0"
   },
   "scripts": {
-    "version": "lerna version --conventional-commits",
+    "version": "lerna version --conventional-commits"
+  },
+"commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
   }
 }
