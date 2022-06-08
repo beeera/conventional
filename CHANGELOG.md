@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.2](https://github.com/beeera/conventional/compare/v2.0.1...v2.0.2) (2022-06-08)
+
+
+### Bug Fixes
+
+* testing to change the CHANGELOG ([9ffeecd](https://github.com/beeera/conventional/commit/9ffeecd2b670cc06def4a6ad531e4ea423bf5165))
 
 ### [2.0.2] 
 

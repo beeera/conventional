@@ -1,6 +1,6 @@
 {
   "name": "testing-versioning",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "devDependencies": {
     "@commitlint/cli": "^17.0.2",
     "@commitlint/config-conventional": "^17.0.2",
