@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/beeera/conventional/compare/v2.0.0...v2.0.1) (2022-06-08)
+
+
+### Bug Fixes
+
+* remove commitlint from package.json ([c9951e7](https://github.com/beeera/conventional/commit/c9951e7ce6ed386bc8a76440d9ad31a680744186))
+
 ## [2.0.0](https://github.com/beeera/conventional/compare/v1.1.0...v2.0.0) (2022-06-08)
 
 
