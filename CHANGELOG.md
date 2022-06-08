@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/beeera/conventional/compare/v0.0.2...v1.1.0) (2022-06-08)
+
+
+### Features
+
+* new version should be 1.1.0 ([933fd69](https://github.com/beeera/conventional/commit/933fd6919c3ee817443eb4bc82f833540bd253e8))
+
 ### [0.0.2](https://github.com/beeera/conventional/compare/v0.0.1...v0.0.2) (2022-06-08)
 
 
