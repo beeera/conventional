@@ -1,0 +1,14 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 0.0.1 (2022-06-08)
+
+
+### Features
+
+* initial commit ([1e60ba2](https://github.com/beeera/conventional/commit/1e60ba252c93d2dc2b8c530570aef88a8f39c4bc))
+* initial commit ([4032a54](https://github.com/beeera/conventional/commit/4032a540ee1272f281f373b20bc8ae95f3c209ce))
+* release first version ([b6fd51e](https://github.com/beeera/conventional/commit/b6fd51e46bd49b10400bf61e87a77cf76ccc7a03))
+* testing the new shit ([0e1112e](https://github.com/beeera/conventional/commit/0e1112e82ccdae8de2622ba09bfc2ca577062aa9))
+* trall ([a14ca8c](https://github.com/beeera/conventional/commit/a14ca8c12bfd15c3cbcc8991ac4d2809f33dfe06))
