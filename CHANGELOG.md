@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/beeera/conventional/compare/v2.1.2...v2.2.0) (2022-06-09)
+
+
+### Features
+
+* new branch, what happens when we merge ([d2a1e62](https://github.com/beeera/conventional/commit/d2a1e62263347a21d37268d26a5de4cc6d3c37ed))
+
+
+### Bug Fixes
+
+* remove learna ([ba74bec](https://github.com/beeera/conventional/commit/ba74bec9d40a2dc446e9ad353e921297c722c80c))
+
 ### [2.1.3](https://github.com/beeera/conventional/compare/v2.1.2...v2.1.3) (2022-06-09)
 
 ### [2.1.2](https://github.com/beeera/conventional/compare/v2.1.1...v2.1.2) (2022-06-09)
